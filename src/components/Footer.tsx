@@ -33,7 +33,7 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Connect With Us</h4>
             <div className="flex space-x-4">
-              <a href="#" className="w-10 h-10 bg-[#1a1a1a] rounded-lg flex items-center justify-center hover:bg-[#F5C242] hover:text-[#121212] transition-all duration-300 text-gray-400">
+              <a href="https://www.linkedin.com/in/techinnosphere-pvt-ltd/" className="w-10 h-10 bg-[#1a1a1a] rounded-lg flex items-center justify-center hover:bg-[#F5C242] hover:text-[#121212] transition-all duration-300 text-gray-400">
                 <Linkedin className="w-5 h-5" />
               </a>
               <a href="#" className="w-10 h-10 bg-[#1a1a1a] rounded-lg flex items-center justify-center hover:bg-[#F5C242] hover:text-[#121212] transition-all duration-300 text-gray-400">
