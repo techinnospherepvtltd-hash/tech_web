@@ -1,4 +1,4 @@
-import { Linkedin, Instagram } from 'lucide-react';
+import { Linkedin, Instagram, Github } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -36,8 +36,11 @@ export default function Footer() {
               <a href="https://www.linkedin.com/in/techinnosphere-pvt-ltd/" className="w-10 h-10 bg-[#1a1a1a] rounded-lg flex items-center justify-center hover:bg-[#F5C242] hover:text-[#121212] transition-all duration-300 text-gray-400">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="#" className="w-10 h-10 bg-[#1a1a1a] rounded-lg flex items-center justify-center hover:bg-[#F5C242] hover:text-[#121212] transition-all duration-300 text-gray-400">
+              <a href="https://www.instagram.com/techlnnosphere_saas/" className="w-10 h-10 bg-[#1a1a1a] rounded-lg flex items-center justify-center hover:bg-[#F5C242] hover:text-[#121212] transition-all duration-300 text-gray-400">
                 <Instagram className="w-5 h-5" />
+              </a>
+              <a href="https://github.com/techinnospherepvtltd-hash" className="w-10 h-10 bg-[#1a1a1a] rounded-lg flex items-center justify-center hover:bg-[#F5C242] hover:text-[#121212] transition-all duration-300 text-gray-400">
+                <Github className="w-5 h-5" />
               </a>
             </div>
           </div>
